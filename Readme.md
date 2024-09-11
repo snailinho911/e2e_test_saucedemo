@@ -4,7 +4,7 @@
 
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/snailinho911/e2e_test_saucedemo.git
+   git clone https://github.com/snailinho911/e2e_test_saucedemo.giе
    ```
 
 2. Установите зависимости:
